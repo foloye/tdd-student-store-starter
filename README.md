@@ -286,17 +286,16 @@ The following specifications were met on the Express backend and the React front
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-The lab definitely helped me with the project, I do not think I would have had anything on my screen if it weren't for the labs.
+Both labs really helped with this project, but the bank one particularlly was very helpful as it taught us how to connect backend to frontend.
 
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
-I would have liked to add a cool hover effect over each item if I could, and I would also maybe do my CSS styling a bit differently.
+If I had more time, I would defintely spend more time on styling and CSS. I am okay with how my website looks, but it doesn't look like how I wanted it to because I was so focused on making sure it worked.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Putting the sidebar on the right side of the screen was a cool component and I think I would like to try that.
+I think my project demo went really well! I got to show all of the features that I had finished and was almost done with all the core features by the time I presented. I would like to work on the stretch features that some of my peers did, they look really fun! 
 
 ### Open-source libraries used
 
@@ -306,6 +305,6 @@ Putting the sidebar on the right side of the screen was a cool component and I t
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
 
-Shout out to pod 12! I wouldn't have gotten this far without them.
+Shout out to my pod with James, Gabriel, and Hailey! They were really fun to work with and had a great time!
 
 GIF
