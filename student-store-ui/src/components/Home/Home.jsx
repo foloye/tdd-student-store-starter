@@ -40,7 +40,7 @@ export default function Home(props) {
       <Search handleOnSearchChange={handleOnSearchChange} setSearchTerm={props.function}/>
       <br></br>
       <CategoryNav handleCategoryChange={handleCategoryChange}/>
-      <ProductsGrid products={props.searchTerm.length == 0 && categoryBtn == false ? props.products : currentProduct}/>
+      <ProductsGrid shoppingCart={props.shoppingCart}products={props.searchTerm.length == 0 && categoryBtn == false ? props.products : currentProduct} handleAddItemToCart={props.handleAddItemToCart} handleRemoveItemFromCart={props.handleRemoveItemFromCart}/>
     
       
     </div>

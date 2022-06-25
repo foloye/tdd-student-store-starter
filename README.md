@@ -4,7 +4,8 @@
 
 Selling merchandise in the modern era requires digital solutions. For this project, you'll be tasked with designing and constructing an online student store for the College of Codepath. The application entails a frontend user interface for potential customers to peruse the goods, and a backend API to handle data management. The API will be built with Node and Express and the UI will be built with React.
 
-![Video of website](https://media.giphy.com/media/vtfc7wNMyrNRQ5dWe0/giphy.gif)
+![Video of website](https://media.giphy.com/media/vC3k7kbXvKup3MG9YA/giphy.gif)
+![Video of website](https://media.giphy.com/media/RiVt00C3FtFXXmobhy/giphy.gif)
 
 ### Application Features
 
@@ -15,11 +16,11 @@ Selling merchandise in the modern era requires digital solutions. For this proje
 - [x] User can click on the categories (Clothing, food, etc) to filter the product grid by type.
 - [x] User can search for products.
 - [x] User can click on a product in the grid to view additional product details. Navigation is via a React Router.
-- [ ] User can click to expand the shopping cart in the left navigation.
-- [ ] User can click the '+' button on a product cart to increment that product in the shopping cart.
-- [ ] User can click the '-' button on a product cart to increment that product in the shopping cart.
-- [ ] Shopping cart displays a table of products, quantities, subtotal, tax, and total.
-- [ ] User can check out, and can view receipt upon completion.
+- [x] User can click to expand the shopping cart in the left navigation.
+- [x] User can click the '+' button on a product cart to increment that product in the shopping cart.
+- [x] User can click the '-' button on a product cart to increment that product in the shopping cart.
+- [x] Shopping cart displays a table of products, quantities, subtotal, tax, and total.
+- [x] User can check out, and can view receipt upon completion.
 
 #### Stretch Features
 

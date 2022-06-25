@@ -3,7 +3,7 @@
     margin:50px ;
     
     left: 0;
-    background: gray;
+    
     margin-left:0%;
     position: sticky;
     top: 0;
@@ -11,10 +11,21 @@
     position: fixed;
     z-index: 100;
     overflow-y: scroll;
+    height: 550px;
     text-align: center;
-    background: gray;
+    background: #432e36;
     margin-right: 10px;
+    vertical-align:top;
+    border-style: solid;
+    border-radius: 12px;
     
+}
+.sidebar h2 {
+    color: #E4D9D6;
+}
+
+.sidebar h4 {
+    color: #E4D9D6;
 }
 .wrapper .closed {
     display: none;
@@ -24,4 +35,25 @@
     width: 10%;
 }
 
+.close {
+    display: none;
+}
+.clo {
+    display: none;
+}
 
+
+
+/* display: flex;
+flex-direction: column;
+align-items: center;
+width: 100%;
+flex: 1;
+transition: all .2s cubic-bezier(.215,.61,.355,1);
+position: fixed;
+z-index: 100;
+top: 0px;
+height: 100vh;
+padding: 0;
+overflow-y: scroll;
+padding-bottom: 2rem; */

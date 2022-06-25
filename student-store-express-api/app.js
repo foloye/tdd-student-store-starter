@@ -21,6 +21,7 @@ app.get('/', (req, res) => {
 
   res.status(200).send({ "ping": "pong" })
 })
+
 //Generic error
 app.use((error, req, res, next) => {
   const status = error.status || 500

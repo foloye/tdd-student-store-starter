@@ -145,5 +145,382 @@
       "price": 999.99
     }
   ],
-  "purchases": []
+  "purchases": [
+    {
+      "name": "Folasade",
+      "email": "folasade@codepath.org",
+      "order": [
+        {
+          "itemId": 2,
+          "quantity": 2
+        }
+      ],
+      "total": "0.26",
+      "createdAt": "2022-06-24T17:39:28.081Z"
+    },
+    {
+      "name": "Folasade",
+      "email": "folasade@codepath.org",
+      "order": [
+        {
+          "itemId": 2,
+          "quantity": 2
+        }
+      ],
+      "total": "0.26",
+      "createdAt": "2022-06-24T17:39:47.578Z"
+    },
+    {
+      "name": "Folasade",
+      "email": "folasade@codepath.org",
+      "order": [
+        {
+          "itemId": 2,
+          "quantity": 2
+        }
+      ],
+      "total": "3.26",
+      "createdAt": "2022-06-24T17:43:21.304Z"
+    },
+    {
+      "name": "Folasade",
+      "email": "folasade@codepath.org",
+      "order": [
+        {
+          "itemId": 2,
+          "quantity": 2
+        }
+      ],
+      "total": "3.26",
+      "createdAt": "2022-06-24T17:46:21.775Z"
+    },
+    {
+      "name": "Folasade",
+      "email": "folasade@codepath.org",
+      "order": [
+        {
+          "itemId": 3,
+          "quantity": 2
+        }
+      ],
+      "total": "6.50",
+      "createdAt": "2022-06-24T17:46:25.580Z"
+    },
+    {
+      "name": "Folasade",
+      "email": "folasade@codepath.org",
+      "order": [
+        {
+          "itemId": 3,
+          "quantity": 10
+        }
+      ],
+      "total": "32.52",
+      "createdAt": "2022-06-24T17:46:31.124Z"
+    },
+    {
+      "order": [
+        {
+          "itemId": 3,
+          "quantity": 1
+        },
+        {
+          "itemId": 6,
+          "quantity": 1
+        }
+      ],
+      "total": "24.99",
+      "createdAt": "2022-06-24T18:39:25.672Z"
+    },
+    {
+      "order": [
+        {
+          "itemId": 6,
+          "quantity": 1
+        },
+        {
+          "itemId": 9,
+          "quantity": 1
+        },
+        {
+          "itemId": 12,
+          "quantity": 2
+        }
+      ],
+      "total": "897.14",
+      "createdAt": "2022-06-24T18:40:25.619Z"
+    },
+    {
+      "name": "folasade",
+      "email": "foloye@student.org",
+      "order": [
+        {
+          "itemId": 15,
+          "quantity": 1
+        }
+      ],
+      "total": "21.73",
+      "createdAt": "2022-06-24T18:51:42.985Z"
+    },
+    {
+      "name": "Folasade",
+      "email": "foloye@codepath.org",
+      "order": [
+        {
+          "itemId": 3,
+          "quantity": 3
+        },
+        {
+          "itemId": 6,
+          "quantity": 1
+        }
+      ],
+      "total": "31.49",
+      "createdAt": "2022-06-24T19:12:34.863Z"
+    },
+    {
+      "name": "dfads",
+      "email": "dfasdf",
+      "order": [
+        {
+          "itemId": 2,
+          "quantity": 1
+        }
+      ],
+      "total": "1.63",
+      "createdAt": "2022-06-24T19:33:53.001Z"
+    },
+    {
+      "name": "last",
+      "email": "last@codepath",
+      "order": [
+        {
+          "itemId": 2,
+          "quantity": 1
+        }
+      ],
+      "total": "1.63",
+      "createdAt": "2022-06-24T19:35:54.917Z"
+    },
+    {
+      "name": "Folasde",
+      "email": "foloye@codepath.org",
+      "order": [
+        {
+          "itemId": 3,
+          "quantity": 1
+        },
+        {
+          "itemId": 6,
+          "quantity": 1
+        },
+        {
+          "itemId": 12,
+          "quantity": 1
+        }
+      ],
+      "total": "459.98",
+      "createdAt": "2022-06-24T19:54:14.129Z"
+    },
+    {
+      "name": "Folasade",
+      "email": "fo@codepath.org",
+      "order": [
+        {
+          "itemId": 2,
+          "quantity": 1
+        },
+        {
+          "itemId": 3,
+          "quantity": 1
+        },
+        {
+          "itemId": 6,
+          "quantity": 1
+        },
+        {
+          "itemId": 11,
+          "quantity": 1
+        }
+      ],
+      "total": "244.12",
+      "createdAt": "2022-06-24T19:56:22.611Z"
+    },
+    {
+      "name": "Folas",
+      "email": "foloye@codepath.org",
+      "order": [
+        {
+          "itemId": 7,
+          "quantity": 1
+        },
+        {
+          "itemId": 10,
+          "quantity": 1
+        },
+        {
+          "itemId": 8,
+          "quantity": 1
+        }
+      ],
+      "total": "65.22",
+      "createdAt": "2022-06-24T20:09:58.160Z"
+    },
+    {
+      "name": "sdkfjas",
+      "email": "dfkdfkja",
+      "order": [
+        {
+          "itemId": 2,
+          "quantity": 1
+        },
+        {
+          "itemId": 3,
+          "quantity": 1
+        },
+        {
+          "itemId": 6,
+          "quantity": 1
+        }
+      ],
+      "total": "26.62",
+      "createdAt": "2022-06-24T20:40:42.691Z"
+    },
+    {
+      "name": "dfjasdkjfakd",
+      "email": "fjaskdkfjas",
+      "order": [
+        {
+          "itemId": 2,
+          "quantity": 1
+        },
+        {
+          "itemId": 5,
+          "quantity": 1
+        },
+        {
+          "itemId": 8,
+          "quantity": 1
+        }
+      ],
+      "total": "31.53",
+      "createdAt": "2022-06-24T20:59:49.640Z"
+    },
+    {
+      "name": "fgsdf",
+      "email": "fgsd",
+      "order": [
+        {
+          "itemId": 1,
+          "quantity": 1
+        }
+      ],
+      "total": "1.08",
+      "createdAt": "2022-06-24T21:52:37.432Z"
+    },
+    {
+      "name": "Folasade Oloye",
+      "email": "foloye@berkeley.edu",
+      "order": [
+        {
+          "itemId": 3,
+          "quantity": 1
+        },
+        {
+          "itemId": 2,
+          "quantity": 1
+        }
+      ],
+      "total": "4.88",
+      "createdAt": "2022-06-24T22:01:14.569Z"
+    },
+    {
+      "name": "dfsdf",
+      "email": "sdfds",
+      "order": [
+        {
+          "itemId": 3,
+          "quantity": 1
+        }
+      ],
+      "total": "3.25",
+      "createdAt": "2022-06-24T22:05:26.738Z"
+    },
+    {
+      "name": "asdfsa",
+      "email": "adsfasdfa",
+      "order": [
+        {
+          "itemId": 12,
+          "quantity": 2
+        }
+      ],
+      "total": "869.98",
+      "createdAt": "2022-06-24T22:27:24.247Z"
+    },
+    {
+      "name": "asdfas",
+      "email": "adsfasd",
+      "order": [
+        {
+          "itemId": 2,
+          "quantity": 2
+        }
+      ],
+      "total": "3.26",
+      "createdAt": "2022-06-24T22:28:17.722Z"
+    },
+    {
+      "name": "dfasd",
+      "email": "adsfadsf",
+      "order": [
+        {
+          "itemId": 3,
+          "quantity": 2
+        },
+        {
+          "itemId": 6,
+          "quantity": 1
+        }
+      ],
+      "total": "28.24",
+      "createdAt": "2022-06-24T22:35:40.744Z"
+    },
+    {
+      "name": "Folasade Oloye",
+      "email": "foloye@codepath.org",
+      "order": [
+        {
+          "itemId": 3,
+          "quantity": 1
+        },
+        {
+          "itemId": 6,
+          "quantity": 1
+        },
+        {
+          "itemId": 9,
+          "quantity": 1
+        }
+      ],
+      "total": "30.42",
+      "createdAt": "2022-06-24T22:46:46.751Z"
+    },
+    {
+      "name": "Folasade Oloye",
+      "email": "foloye@codepath.org",
+      "order": [
+        {
+          "itemId": 14,
+          "quantity": 3
+        },
+        {
+          "itemId": 5,
+          "quantity": 1
+        }
+      ],
+      "total": "367.03",
+      "createdAt": "2022-06-25T00:15:08.854Z"
+    }
+  ]
 }
